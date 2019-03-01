@@ -1,0 +1,5 @@
+{
+    "require": {
+        "nopjmp/discord-webhooks": "^0.3.1"
+    }
+}
